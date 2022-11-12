@@ -61,7 +61,7 @@ body {
 }
 
 .logo {
-    width: 150px;
+    width: 400px;
     max-width: 90vw;
     animation: rotation 15s linear infinite;
     margin-bottom: 15px;
@@ -70,7 +70,7 @@ body {
 
 }
 .logo2 {
-    width: 300px;
+    /* width: 300px; */
     max-width: 90vw;
     margin-bottom: 15px;
     animation: over 1s ease-out;

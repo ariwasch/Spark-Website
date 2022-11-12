@@ -16,9 +16,9 @@
 }
 body {
     /* background: linear-gradient(to bottom, #277cad 0%, #2add8c 100%); */
-    background: linear-gradient(to bottom, #ffffff 0%, #ffffff 100%);
+    background: linear-gradient(to bottom, #EBB6F0 0%, #EBB6F0 100%);
 
-    color: #277cad;
+    color: #F44336;
     font-family: 'Josefin Sans', sans-serif;
 }
 a {
@@ -30,6 +30,15 @@ h1 {
 }
 p {
     color: black;
+}
+
+h1.increase {
+    font-size: 65px;
+    text-align: left;
+    max-width: 90vw;
+    margin-bottom: 15px;
+    animation: over 1s ease-out;
+
 }
 
 
