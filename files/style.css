@@ -16,9 +16,9 @@
 }
 body {
     /* background: linear-gradient(to bottom, #277cad 0%, #2add8c 100%); */
-    background: linear-gradient(to bottom, #EBB6F0 0%, #EBB6F0 100%);
+    background: linear-gradient(to bottom, #FCAB1B 0%, #FCAB1B 100%);
 
-    color: #F44336;
+    color: #000000;
     font-family: 'Josefin Sans', sans-serif;
 }
 a {
